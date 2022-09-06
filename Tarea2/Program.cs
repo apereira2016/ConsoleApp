@@ -27,7 +27,7 @@ char a = 'a';
 int cumple= 18;
 
 //Un numero mayor es igual a 18
-Console.WriteLine("numero " + (mayorigual>=18));
+Console.WriteLine("" + (mayorigual>=18));
 //Char
 Console.WriteLine("Es letra " + a);
 //Se cumplen una de dos condiciones
